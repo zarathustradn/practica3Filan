@@ -1,8 +1,0 @@
-Lo siguiente que voy a aprender es Java.
-Java es un lenguaje de programacion.
-
-Ya se lo basico de este programa, este lo estudie en la 
-escuela y lo que voy a hacer ahora es reforzar y apliar mis 
-conocimientos de este lenguaje.
-
-3ro.

@@ -1,7 +1,0 @@
-Git: git es un software que funciona para almacenar codigo y hacer un 
-historial de este para cuando haya un error o solo para revisar un progreso.
-
-Esto fue lo primero que estudie por recomendacion de "HolaMundo" ya que quiero
-adentrarme al mundo de la programacion.
-
-1ro.

@@ -1,6 +1,0 @@
-Lo que me puse a aprender hoy es MySQL, este es un Sistema de gestion
-de base de datos relacionales o Relational Database Management System (RDBMS).
-
-Como este hay muchos y pero el que yo me dicidi fue por MySQL.
-
-2do.
